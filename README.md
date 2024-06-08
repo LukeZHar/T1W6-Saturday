@@ -46,3 +46,12 @@ Finding the sum of the first numbers (1, 2, 3 .... 10)
 ## Practise example 2
 Find the largest number in the list
 list = [3, 41, 12, 9, 74, 15]
+
+# Loop control statements 
+Control the flow of the loop, terminate the loop early if you want or skip over some iteration
+
+## Break satement
+Terminates loop immediately, moves to the next statement after the loop
+
+## Continue statement
+skips the rest of the code inside the loop for the current iteration and moves to the next
